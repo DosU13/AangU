@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_water"
+        android:icon="@drawable/water_icon"
+        android:title="@string/title_water" />
+
+    <item
+        android:id="@+id/navigation_earth"
+        android:icon="@drawable/earth_icon"
+        android:title="@string/title_earth" />
+
+    <item
+        android:id="@+id/navigation_fire"
+        android:icon="@drawable/fire_icon"
+        android:title="@string/title_fire" />
+
+    <item
+        android:id="@+id/navigation_air"
+        android:icon="@drawable/air_icon"
+        android:title="@string/title_air"/>
+
+</menu>

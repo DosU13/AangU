@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AangU</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_water">Water</string>
+    <string name="title_earth">Earth</string>
+    <string name="title_fire">Fire</string>
+    <string name="title_air">Air</string>
+</resources>
